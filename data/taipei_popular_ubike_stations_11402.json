@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "U101022",
+        "stop_name": "捷運公館站(2號出口)",
+        "capacity": 99,
+        "latitude": 25.01491,
+        "longitude": 121.53438,
+        "category": "中",
+        "rank": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53438,
+          25.01491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "U101101",
+        "stop_name": "捷運六張犁站",
+        "capacity": 64,
+        "latitude": 25.02397,
+        "longitude": 121.55266,
+        "category": "高",
+        "rank": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55266,
+          25.02397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "U101166",
+        "stop_name": "捷運科技大樓站(台北教育大學)",
+        "capacity": 46,
+        "latitude": 25.02469,
+        "longitude": 121.54459,
+        "category": "高",
+        "rank": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54459,
+          25.02469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "U101169",
+        "stop_name": "捷運信義安和站(4號出口)",
+        "capacity": 30,
+        "latitude": 25.03305,
+        "longitude": 121.55378,
+        "category": "高",
+        "rank": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55378,
+          25.03305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "U101179",
+        "stop_name": "捷運東門站(5號出口)",
+        "capacity": 28,
+        "latitude": 25.03363,
+        "longitude": 121.52962,
+        "category": "高",
+        "rank": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52962,
+          25.03363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "U101181",
+        "stop_name": "捷運公館站(3號出口)",
+        "capacity": 90,
+        "latitude": 25.01551,
+        "longitude": 121.53374,
+        "category": "中",
+        "rank": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53374,
+          25.01551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "U103009",
+        "stop_name": "捷運圓山站(1號出口)",
+        "capacity": 44,
+        "latitude": 25.07133,
+        "longitude": 121.52024,
+        "category": "高",
+        "rank": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52024,
+          25.07133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "U104028",
+        "stop_name": "捷運芝山站(2號出口)",
+        "capacity": 21,
+        "latitude": 25.10364,
+        "longitude": 121.52219,
+        "category": "高",
+        "rank": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52219,
+          25.10364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "U107024",
+        "stop_name": "捷運中山國中站",
+        "capacity": 62,
+        "latitude": 25.06106,
+        "longitude": 121.54406,
+        "category": "高",
+        "rank": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54406,
+          25.06106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "U112070",
+        "stop_name": "捷運永春站(2號出口)",
+        "capacity": 28,
+        "latitude": 25.0405,
+        "longitude": 121.57538,
+        "category": "高",
+        "rank": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.57538,
+          25.0405
+        ]
+      }
+    }
+  ]
+}
