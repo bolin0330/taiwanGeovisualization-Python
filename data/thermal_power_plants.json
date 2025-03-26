@@ -1,0 +1,57 @@
+[
+    {
+        "name":"Hsieh-ho Power Plant",
+        "latitude":25.157328,
+        "longitude":121.739325
+    },
+    {
+        "name":"Linkou Power Plant",
+        "latitude":25.120833,
+        "longitude":121.298333
+    },
+    {
+        "name":"Tatan Power Plant",
+        "latitude":25.026111,
+        "longitude":121.047222
+    },
+    {
+        "name":"Tunghsiao Power Plant",
+        "latitude":24.489917,
+        "longitude":120.671111
+    },
+    {
+        "name":"Taichung Power Plant",
+        "latitude":24.212778,
+        "longitude":120.481111
+    },
+    {
+        "name":"Hsinta Power Plant",
+        "latitude":22.856389,
+        "longitude":120.196944
+    },
+    {
+        "name":"NanPu Power Plant",
+        "latitude":22.600833,
+        "longitude":120.300556
+    },
+    {
+        "name":"Talin Power Plant",
+        "latitude":22.536111,
+        "longitude":120.335556
+    },
+    {
+        "name":"Chienshan Power Plant",
+        "latitude":23.563056,
+        "longitude":119.661111
+    },
+    {
+        "name":"Tashan Power Plant",
+        "latitude":24.416667,
+        "longitude":118.283333
+    },
+    {
+        "name":"Zhushan Power Plant",
+        "latitude":26.156639,
+        "longitude":119.9345
+    }
+]
